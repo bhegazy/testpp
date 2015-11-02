@@ -1,5 +1,5 @@
  class testpp {
 
-    notify { 'hello, world!': }
+    notify { 'TESTTTTTTTTTT': }
 
  }
