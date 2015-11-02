@@ -1,4 +1,4 @@
- class helloworld {
+ class testpp {
 
     notify { 'hello, world!': }
 

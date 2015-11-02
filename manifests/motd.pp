@@ -1,4 +1,4 @@
- class helloworld::motd {
+ class testpp::motd {
 
     file { '/etc/motd':
     owner  => 'root',
